@@ -13,6 +13,6 @@ const port = 3800;
 app.listen(port, ()=>{
     console.log('bienvenidos a mi servidor Nodejs');
     console.log('puedes ingresar a la url: localhost:3800//');
-    console.log('prueba1')
+    console.log('prueba1');
   
 });
