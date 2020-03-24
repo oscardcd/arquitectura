@@ -1,0 +1,63 @@
+*Que clases de datos hay en java
+
+byte
+Representa un tipo de dato de 8 bits con signo. De tal manera que puede almacenar los valores numéricos de -128 a 127 (ambos inclusive).
+
+short
+Representa un tipo de dato de 16 bits con signo. De esta manera almacena valores numéricos de -32.768 a 32.767.
+
+int
+Es un tipo de dato de 32 bits con signo para almacenar valores numéricos. Cuyo valor mínimo es -231 y el valor máximo 231-1.
+
+long
+Es un tipo de dato de 64 bits con signo que almacena valores numéricos entre -263 a 263-1
+
+float
+Es un tipo dato para almacenar números en coma flotante con precisión simple de 32 bits.
+
+double
+Es un tipo de dato para almacenar números en coma flotante con doble precisión de 64 bits.
+
+boolean
+Sirve para definir tipos de datos booleanos. Es decir, aquellos que tienen un valor de true o false. Ocupa 1 bit de información.
+
+char
+Es un tipo de datos que representa a un carácter Unicode sencillo de 16 bits.
+
+*class striing
+
+esta clase, crea un arreglo de caracteres, al cual se accede a traves de las funciones de la misma clase.
+
+System.out.println("El primer programa");
+aqui java crea un objeto de la clase String automáticamente accediendo a la funcion System.out.println() .
+
+*class math
+
+La clase Math tiene miembros dato y funciones miembro estáticas, que tienen diferentes funciones, se puede acceder desde la clase "math."
+
+por ejemplo por medio me math.pi se puede hallar el numero pi, entre estas hay muchas mas funciones que hacen parte de la clase math por ejemplo.
+
+ abs Valor absoluto int x = Math.abs(2.3); x = 2;
+
+ atan Arcotangente double x = Math.atan(1); x = 0.78539816339744;
+
+ sin Seno double x = Math.sin(0.5); x = 0.4794255386042;
+
+ cos Coseno double x = Math.cos(0.5); x = 0.87758256189037;
+
+ tan Tangente double x = Math.tan(0.5); x = 0.54630248984379;
+
+ exp Exponenciación neperiana double x = Math.exp(1); x = 2.71828182845904;
+
+ log Logaritmo neperiano double x = Math.log(2.7172); x = 0.99960193833500;
+
+ pow Potencia double x = Math.pow(2.3); x = 8.0;
+
+ round Redondeo double x = Math.round(2.5); x = 3;
+
+random Número aleatorio double x = Math.ramdom(); x = 0.20614522323378;
+
+floor	Redondeo al entero menor	double x = Math.floor(2.5);	x = 2.0;
+ceil Redondeo al entero mayor double x = Math.ceil(2.5); x = 3.0
+
+*estructuras secuenciales,condicionales,casos, ciclos: para, mientras,haga mientras.

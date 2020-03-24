@@ -1,0 +1,55 @@
+INICIO
+    CADENA nombre, sexo, nommay_edad
+    ENTERO edad,bandera=1, cont_indiv=0,mayoredad=0,acu_edad=0
+    REAL pro_edad, may_20,num_muj=0,num_hom=0, acu_edadhom=0,prom_edhom,acu_edadmuj=0,prom_edmuj,
+            acu_edad30=0,con_edad30,prom_edadm30
+
+    mientras(bandera=1)
+
+        lea "ingrese nombre", nombre
+        lea "ingrese sexo, ingrese f para femenino y m para masculino", sexo
+        lea "ingrese edad", edad
+//nun individuos
+        cont_indiv=cont_indiv+1
+//hallar el de mayor edad
+        si(edad>mayoredad)
+            mayoredad=edad
+            nommay_edad=nombre
+        fin si
+//acumulador edades
+        acu_edad=acu_edad+edad
+//contar los mayores de 20
+        si(edad>20)
+            may_20=may_20+1
+        fin si
+
+//num mujeres y hombres
+        si(sexo="f")
+            acu_edadmuj=acu_edadmuj+edad
+            num_muj=num_muj+1
+        sino
+            acu_edadhom=acu_edadhom+edad 
+            num_hom=num_hom+1
+        fin si
+
+        si (edad<=30)
+            con_edad30=con_edad30+1
+            acu_edad30=acu_edad30+edad
+        fin si
+    fin mientras
+
+        pro_edad=acu_edad/cont_indiv
+        prom_edadm30=acu_edad30/con_edad30
+        prom_edmuj=acu_edadmuj/num_muj
+        prom_edhom=acu_edadhom/num_hom
+
+        imprimir "el numero de individuos es:"cont_indiv
+        imprimir "la persona con mayor edad es:" nommay_edad
+        imprimir "el promedio de las edades es:" pro_edad
+        imprimir "el numero de individuos mayores a 20 es:" may_20
+        imprimir "el numero de mujeres es:"num_muj
+        imprimir "el numero de hombres es: " num_hom
+        imprimir "el promedio de edades menores de 30 es:" prom_edadm30
+        imprimir "el promedio de edades de mujeres es: " prom_edmuj
+fin
+        

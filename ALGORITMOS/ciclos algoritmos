@@ -1,0 +1,143 @@
+
+leer n facturas, ingresar: articulo, cantidad articlos, valor unitario.
+
+1.averigar total por factura e imprimirlas
+2.la suma de todas las facturas
+3.el promedio de facturas
+4.el numero de facturas mayores a 400.000
+5.la sumatoria de las facturas menores a 700.000
+
+realizar el algoritmo con los tres ciclos
+
+
+**CICLO CON PARA**
+INICIO
+	
+	cadena articulo
+	real cant_art, valor_uni,totxfact,contfact,totfats, promfacs,nummay,nummen,sumfac,nfactu
+
+	lea "ingrese el numero de facturas",nfactu
+
+	para(i=0,i<=nfactu,i++)
+
+		lea "ingrese el nombre del articulo",articulo
+		lea "ingrese el valor unitario",valor_uni
+		lea "ingrese cantidad de articulos",cant_art
+
+		totxfact=totalxart*cant_art
+
+		IMPRIMA "el total de la factura es: ", totxfact
+		
+		totfats=totfats+totxfact
+
+		si(totxfact=> 400000)
+			
+			nummay=nummay+1
+		finsi
+
+		si(totxfact<=700000)
+			
+			sumfac= sumfac+totxfact
+		finsi
+
+	fin para
+
+	promfacs=totfats/nfactu
+
+FIN
+
+
+**CICLO MIENTRAS**
+leer n facturas, ingresar: articulo, cantidad articlos, valor unitario.
+
+1.averigar total por factura e imprimirlas
+2.la suma de todas las facturas
+3.el promedio de facturas
+4.el numero de facturas mayores a 400.000
+5.la sumatoria de las facturas menores a 700.000
+
+
+INICIO
+	CADENA articulo
+	REAL cantidad, valor_uni, num_fafac, total_fac, suma_dac=0, prom_fac, numfac_4=0,sumfac_7=0, i=1
+
+	LEA "INGRESE EL NUMERO DE FACTURAS",num_fact
+
+	mientras(i<= num_fac)
+
+		LEA "ingrese el articulo", articulo
+		LEA "ingrese la cantidad de articulos", cantidad
+		LEA "ingrese el valor unitario", valor_uni
+
+		total_fac=cantidad*valor_uni
+
+		suma_fac= suma_fac +total_fac
+
+		si(total_fac>400000)
+			numfac_4= numfac_4+1
+		finsi
+
+		si(total_fac<700000)
+			sumfac_7=sumfac_7+total_fac
+		finsi
+
+		i++
+
+
+	fin mientras
+
+	prom_fac= suma_fac/num_fac
+
+	imprimir "total por factura= ",total_fac
+	imprimir "la suma de las facturas= ", suma_fac
+	imprimir "promedio facturas= ", prom_fac
+	imprimir "facturas mayores a 40000", num_fac_4
+	imprimir "suma facturas < a 700000", sumfac_7
+
+FIN
+
+**CICLO HAGA**
+leer n facturas, ingresar: articulo, cantidad articlos, valor unitario.
+
+1.averigar total por factura e imprimirlas
+2.la suma de todas las facturas
+3.el promedio de facturas
+4.el numero de facturas mayores a 400.000
+5.la sumatoria de las facturas menores a 700.000
+
+INICIO
+	
+	CADENA articulo
+	REAL nfact,cant_art, valor_uni, totxfac, sumfact, numfac_4, sumfac_7,totfac,sumfacs,promfact
+
+	LEA "ingrese el numero de facturas ", nfact
+
+	HAGA
+
+		LEA	"ingrese nombre del articulo", articulo
+		LEA	"ingrese la cantidad de articulos", cant_art
+		LEA	"ingrese el valor del articulo", valor_uni
+
+		totfac=valor_uni*cant_art
+
+		sumfacs=sumfacs+tatfac
+
+		si(sumfacs=>400000)
+			numfac_4=numfac_4+1
+		finsi
+
+		si(sumfacs<=700000)
+			sumfac_7=sumfac_7+sumfacs
+		finsi
+	mientras (nfact<=nfactm)
+
+	promfact=totfac/nfact
+
+FIN
+
+
+
+
+
+
+

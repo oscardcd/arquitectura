@@ -1,0 +1,80 @@
+se ingresan n esdianes por n grupos a una institucion
+
+se lee or cada estudiante
+
+*nombre, notas de segimiento 30%, parcial 40%, final 30%
+
+averiguar
+
+1- nota definitiva por cada estudiante
+2- promedio por cada grupo
+3- promnedio de la institucio
+4- numero de esdianes que ganaron y perdieron por grupo
+5- numero de los estudiantes que ganaron y perdieron en la institucion
+6- promedio de los que ganaron y promedio de los que perdieron en toda la institucion
+
+inicio
+    real Nest=0,iest,Ngru,notseti,notpari,notfini,Notdefxest,acunot,totestgrup,promxgrupo,acupromxgru,
+            totalestins,prominst, num_estg, num_estp,num_estgi,num_estpi,promgan,promper,bandera=1
+    cadena nombre
+    
+
+    haga
+        Ngru=Ngru+1
+
+            lea "ingrese el numero de estudiantes: ", Nest
+
+            para(iest=1,iest<=Nest,iest++)
+
+                lea "ingrese el nombre del estudiante",nombre
+                lea "ingrese nota de seguimiento", notseti
+                lea "ingrese nota parcial", notpari
+                lea "ingrese nota final", notfini
+
+                Notdefxest=(notseti*0.30)+(notpari*0.40)+(notfini*0.30)
+
+                imprima "la nota definitiva del estudiante es:", Notdefxest
+
+                si (Notdefxest=>3)
+                    num_estg=num_estg+1
+                sino
+                    num_estp=num_estp+1
+                finsi
+
+                acunot=acunot+Notdefxest
+                totestgrup=totestgrupo+num_estg+num_estp
+            fin para
+
+        totalestins=totalestins+totalestgrupo
+        promxgrupo=acunot/Nest
+
+        imprima "el promedio por grupo es:", promxgrupo
+
+        imprima "el numero de los estudiantes que ganaron del grupo fueron:", num_estg
+        imprima "el numero de los estudiantes que perdieron fueron:", num_estp
+
+        acupromxgru=acupromxgru+promxgrupo
+
+        num_estgi=num_estgi+num_estg
+        num_estpi=num_estpi+num_estp
+    
+    imprima "para ingersar un nuevo grupo ingrese 1: para continuar o 0 para terminar", bandera
+
+    mientras (bandera=1)
+
+    prominst=acupromxgru/Ngru
+
+    imprima "el promedio de la institucion es:", prominst 
+
+    imprima "el numero de estudiantes que ganaron de la institucion fue:", num_estgi
+    imprima "el numero de estudiantes que perdieron de la institucion fue:", num_estgi
+
+    promgan=totalestins/num_estgi
+    promper=totalestins/num_estp
+
+    imprima "promedio de los estudiantes que ganaron en toda la institucion:", promgan
+    imprima "promedio de los estudiantes que perdieron en toda la institucion", promper
+
+fin
+
+           

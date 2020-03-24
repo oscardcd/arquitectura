@@ -1,0 +1,11 @@
+¿que son los casos de uso?
+Un caso de uso es la descripción de una acción o actividad. Un diagrama de caso de uso es una descripción de las actividades que deberá realizar alguien o algo para llevar a cabo algún proceso. Los personajes o entidades que participarán en un diagrama de caso de uso se denominan actores. En el contexto de ingeniería del software, un diagrama de caso de uso representa a un sistema o subsistema como un conjunto de interacciones que se desarrollarán entre casos de uso y entre estos y sus actores en respuesta a un evento que inicia un actor principal. Los diagramas de casos de uso sirven para especificar la comunicación y el comportamiento de un sistema mediante su interacción con los usuarios y/u otros sistemas.
+
+1RA 2DA 3RA FORMA NORMAL EN MODELO RELACIONAL
+
+Consultar la primera forma normal:
+
+Primera forma normal en bases de datos
+
+Pn la primera forma se prohibe que un campo contenga datos repetidos en su columna y exige que las tablas tengan una clave primaria y no puede tener valores nulos.
+
