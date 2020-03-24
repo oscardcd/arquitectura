@@ -1,0 +1,25 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "servidor de nodes oscar correa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon NODEJS/"
+  },
+  "keywords": [
+    "\"servidor",
+    "nodejs\"",
+    "\"academia\"",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "oscar correa",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
