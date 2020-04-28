@@ -1,0 +1,10 @@
+
+1. Investigar acerca del Marco Scrum
+​2. Las ceremonias y/o reuniones que se celebran en el scrum y que se hace en cada una
+3. Que es product backlog o pila de producto
+4. Como se estima en Scrum.
+5. Como se realiza una Historia de Usuario y su esctructura
+6. Que es producto mínimo viable en los proyectos de Scrum
+7. Pilares y valores del Scrum
+8. Tablero Kanban
+9. Diferencias entre Metodologia cascada y las metodologias agiles

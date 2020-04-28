@@ -1,0 +1,5 @@
+C:\Users\admin\Documents\USB METALIA\C# WEB\EJEMPLO1\LIB_logicadeNegocio\LIB_logicadeNegocio\bin\Debug\LIB_logicadeNegocio.dll
+C:\Users\admin\Documents\USB METALIA\C# WEB\EJEMPLO1\LIB_logicadeNegocio\LIB_logicadeNegocio\bin\Debug\LIB_logicadeNegocio.pdb
+C:\Users\admin\Documents\USB METALIA\C# WEB\EJEMPLO1\LIB_logicadeNegocio\LIB_logicadeNegocio\obj\Debug\LIB_logicadeNegocio.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\USB METALIA\C# WEB\EJEMPLO1\LIB_logicadeNegocio\LIB_logicadeNegocio\obj\Debug\LIB_logicadeNegocio.dll
+C:\Users\admin\Documents\USB METALIA\C# WEB\EJEMPLO1\LIB_logicadeNegocio\LIB_logicadeNegocio\obj\Debug\LIB_logicadeNegocio.pdb

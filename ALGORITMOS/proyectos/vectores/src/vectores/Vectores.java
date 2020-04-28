@@ -78,20 +78,46 @@ public class Vectores {
     {
          //declarar vecto
         
+        
+       
+        
         int vector[];
         //declarando el tamaño del vector
         vector=new int[3];
         
         //declaramos y damos tamaño
         
-        int[] vector2=new int[6];
-        
+       
+        double[] numeros;
+        String[] nombres;
+                
+             
+         int[] vector2=new int[6];
+         
+         
+         int[] nomvect= new int[9];
+                 
+         String[] vec4=new String[3];
         vector2[0]=8;
         vector2[1]=52;
         vector2[2]=234;
         vector2[3]=36;
         vector2[4]=386;
         vector2[5]=346;
+        
+        double[] vec3=new double[100];
+        
+        vec3[100]=3;
+        vec3[774]=2;
+        vec3[2]=1;
+        vec3[3]=1;
+        vec3[4]=1;
+        vec3[5]=1;
+        vec3[9]=25;
+        vec3[68]=545;
+        
+        
+      
         
         
          
@@ -104,7 +130,7 @@ public class Vectores {
     }
     public static void main(String[] args) {
        
-        Vectores.ejemplo();
+        Vectores.ejerciciopro();
         
     }
     

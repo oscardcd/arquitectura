@@ -1,0 +1,11 @@
+C:\Users\admin\Documents\USB METALIA\C# WEB\EJEMPLO1\AppEjemplo1\AppEjemplo1\bin\Debug\AppEjemplo1.exe.config
+C:\Users\admin\Documents\USB METALIA\C# WEB\EJEMPLO1\AppEjemplo1\AppEjemplo1\bin\Debug\AppEjemplo1.exe
+C:\Users\admin\Documents\USB METALIA\C# WEB\EJEMPLO1\AppEjemplo1\AppEjemplo1\bin\Debug\AppEjemplo1.pdb
+C:\Users\admin\Documents\USB METALIA\C# WEB\EJEMPLO1\AppEjemplo1\AppEjemplo1\bin\Debug\LIB_logicadeNegocio.dll
+C:\Users\admin\Documents\USB METALIA\C# WEB\EJEMPLO1\AppEjemplo1\AppEjemplo1\bin\Debug\LIB_logicadeNegocio.pdb
+C:\Users\admin\Documents\USB METALIA\C# WEB\EJEMPLO1\AppEjemplo1\AppEjemplo1\obj\Debug\AppEjemplo1.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\USB METALIA\C# WEB\EJEMPLO1\AppEjemplo1\AppEjemplo1\obj\Debug\AppEjemplo1.Form1.resources
+C:\Users\admin\Documents\USB METALIA\C# WEB\EJEMPLO1\AppEjemplo1\AppEjemplo1\obj\Debug\AppEjemplo1.Properties.Resources.resources
+C:\Users\admin\Documents\USB METALIA\C# WEB\EJEMPLO1\AppEjemplo1\AppEjemplo1\obj\Debug\AppEjemplo1.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\USB METALIA\C# WEB\EJEMPLO1\AppEjemplo1\AppEjemplo1\obj\Debug\AppEjemplo1.exe
+C:\Users\admin\Documents\USB METALIA\C# WEB\EJEMPLO1\AppEjemplo1\AppEjemplo1\obj\Debug\AppEjemplo1.pdb
