@@ -1,0 +1,4 @@
+crear una aplicacion, usando dos capas(vista y logica de negocio), que permisa calcular el promedio de tres numeros reales positivos y deben estar en rango de 0 a 5
+
+
+realiza un sistema de nomina ingresando cedula de empleado, nombre, apellido, valor hora, numero de horas trabajadas, calcular su salario

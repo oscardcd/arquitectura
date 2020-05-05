@@ -1,0 +1,8 @@
+D:\ADSI\C#\Prac1\Lib_logicadenegocio\Lib_logicadenegocio\bin\Debug\netcoreapp3.0\Lib_logicadenegocio.deps.json
+D:\ADSI\C#\Prac1\Lib_logicadenegocio\Lib_logicadenegocio\bin\Debug\netcoreapp3.0\Lib_logicadenegocio.dll
+D:\ADSI\C#\Prac1\Lib_logicadenegocio\Lib_logicadenegocio\bin\Debug\netcoreapp3.0\Lib_logicadenegocio.pdb
+D:\ADSI\C#\Prac1\Lib_logicadenegocio\Lib_logicadenegocio\obj\Debug\netcoreapp3.0\Lib_logicadenegocio.csprojAssemblyReference.cache
+D:\ADSI\C#\Prac1\Lib_logicadenegocio\Lib_logicadenegocio\obj\Debug\netcoreapp3.0\Lib_logicadenegocio.AssemblyInfoInputs.cache
+D:\ADSI\C#\Prac1\Lib_logicadenegocio\Lib_logicadenegocio\obj\Debug\netcoreapp3.0\Lib_logicadenegocio.AssemblyInfo.cs
+D:\ADSI\C#\Prac1\Lib_logicadenegocio\Lib_logicadenegocio\obj\Debug\netcoreapp3.0\Lib_logicadenegocio.dll
+D:\ADSI\C#\Prac1\Lib_logicadenegocio\Lib_logicadenegocio\obj\Debug\netcoreapp3.0\Lib_logicadenegocio.pdb

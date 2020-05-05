@@ -1,0 +1,1 @@
+con el anterior modelo de entidad relacion organizar en tablas en postgres, cada entidad definida con sus respectivas llaves primarias y foraneas.
