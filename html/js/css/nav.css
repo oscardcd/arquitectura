@@ -1,0 +1,36 @@
+.navegador
+{
+    display: grid;
+    grid-template-areas:"ejemplo figuras formulario";
+    padding: 2%;
+}
+
+.ejemplo{
+    grid-area: ejemplo;
+    border-right: 2px solid black;
+ 
+    
+}
+
+
+.figuras{
+    grid-area: figuras;
+    border-right: 2px solid black;
+    
+}
+
+
+.form{
+    grid-area: formulario;
+    border-right: 2px solid black;
+    padding: 1%;
+    
+}
+
+
+span{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:x-large;
+    margin-left: 5px;
+    
+}

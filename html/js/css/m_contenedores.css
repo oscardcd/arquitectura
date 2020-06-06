@@ -1,0 +1,74 @@
+.contenedor{
+   text-align: center;
+    height: auto;
+    display: grid;
+   grid-template-areas: "arriba arriba arriba"
+                        "abajo abajo abajo"
+
+}
+
+#arriba{
+    grid-area: arriba;
+    padding: 2%;
+}
+
+#abajo{
+    grid-area: abajo;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    
+    grid-template-areas: "botones botones botones"
+                        "formas formas formas";
+}
+
+#botones{
+    grid-area: botones;
+    grid-template-columns: 1fr 1fr 1fr;
+
+    grid-template-areas: "circulo cuadrado limpiar"
+    "circulof cuadradof limpiarf";
+    display: grid;
+    padding: 1%;
+    
+}
+#formas{
+    grid-area: formas;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-areas: "circulof cuadradof limpiarf";
+    display: grid;
+    padding: 1%;
+    align-items: left;
+  
+    
+}
+.circulo
+{
+    grid-area: circulo;
+    
+}
+
+.cuadrado{
+    grid-area: cuadrado;
+   
+}
+.limpiar{
+    
+    grid-area: limpiar;
+}
+
+
+.circulof
+{
+    grid-area: circulof;
+   
+}
+
+.cuadradof{
+    grid-area: cuadradof;
+   
+}
+.limpiarf{
+    
+    grid-area: limpiarf;
+}
+
