@@ -1,10 +1,10 @@
-window.addEventListener("load",inicio);
+window.addEventListener("load",cambio);
 
-function inicio()
+function cambio()
   {
     document.getElementById("cambiartexto").addEventListener("click",cambiartext);
     document.getElementById("cambiarclase").addEventListener("click",cambiarclase);
-    document.getElementById("quitarclase").addEventListener("click",quitarclase)
+    document.getElementById("quitarclase").addEventListener("click",quitarclase);
   }
 
   function cambiartext()

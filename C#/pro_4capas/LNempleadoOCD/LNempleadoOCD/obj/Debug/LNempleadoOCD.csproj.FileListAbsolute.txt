@@ -1,0 +1,14 @@
+D:\ADSI\C#\pro_4capas\LNempleadoOCD\LNempleadoOCD\bin\Debug\LNempleadoOCD.dll
+D:\ADSI\C#\pro_4capas\LNempleadoOCD\LNempleadoOCD\bin\Debug\LNempleadoOCD.pdb
+D:\ADSI\C#\pro_4capas\LNempleadoOCD\LNempleadoOCD\bin\Debug\LibConexionBD.dll
+D:\ADSI\C#\pro_4capas\LNempleadoOCD\LNempleadoOCD\bin\Debug\LibLlenarGrid.dll
+D:\ADSI\C#\pro_4capas\LNempleadoOCD\LNempleadoOCD\bin\Debug\LibParametro.dll
+D:\ADSI\C#\pro_4capas\LNempleadoOCD\LNempleadoOCD\bin\Debug\LibConexionBD.pdb
+D:\ADSI\C#\pro_4capas\LNempleadoOCD\LNempleadoOCD\bin\Debug\LibLlenarGrid.pdb
+D:\ADSI\C#\pro_4capas\LNempleadoOCD\LNempleadoOCD\bin\Debug\LibParametro.pdb
+D:\ADSI\C#\pro_4capas\LNempleadoOCD\LNempleadoOCD\obj\Debug\LNempleadoOCD.csproj.CopyComplete
+D:\ADSI\C#\pro_4capas\LNempleadoOCD\LNempleadoOCD\obj\Debug\LNempleadoOCD.dll
+D:\ADSI\C#\pro_4capas\LNempleadoOCD\LNempleadoOCD\obj\Debug\LNempleadoOCD.pdb
+D:\ADSI\C#\pro_4capas\LNempleadoOCD\LNempleadoOCD\obj\Debug\LNempleadoOCD.csprojAssemblyReference.cache
+D:\ADSI\C#\pro_4capas\LNempleadoOCD\LNempleadoOCD\bin\Debug\LibLlenarCombos.dll
+D:\ADSI\C#\pro_4capas\LNempleadoOCD\LNempleadoOCD\bin\Debug\LibLlenarCombos.pdb

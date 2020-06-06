@@ -1,0 +1,12 @@
+D:\ADSI\C#\ejercicioxml\mostrarxml\mostrarxml\bin\Debug\mostrarxml.exe.config
+D:\ADSI\C#\ejercicioxml\mostrarxml\mostrarxml\bin\Debug\mostrarxml.exe
+D:\ADSI\C#\ejercicioxml\mostrarxml\mostrarxml\bin\Debug\mostrarxml.pdb
+D:\ADSI\C#\ejercicioxml\mostrarxml\mostrarxml\bin\Debug\libparametrosOdcd.dll
+D:\ADSI\C#\ejercicioxml\mostrarxml\mostrarxml\bin\Debug\libparametrosOdcd.pdb
+D:\ADSI\C#\ejercicioxml\mostrarxml\mostrarxml\obj\Debug\mostrarxml.alumnos.resources
+D:\ADSI\C#\ejercicioxml\mostrarxml\mostrarxml\obj\Debug\mostrarxml.Properties.Resources.resources
+D:\ADSI\C#\ejercicioxml\mostrarxml\mostrarxml\obj\Debug\mostrarxml.csproj.GenerateResource.cache
+D:\ADSI\C#\ejercicioxml\mostrarxml\mostrarxml\obj\Debug\mostrarxml.csproj.CopyComplete
+D:\ADSI\C#\ejercicioxml\mostrarxml\mostrarxml\obj\Debug\mostrarxml.exe
+D:\ADSI\C#\ejercicioxml\mostrarxml\mostrarxml\obj\Debug\mostrarxml.pdb
+D:\ADSI\C#\ejercicioxml\mostrarxml\mostrarxml\obj\Debug\mostrarxml.csprojAssemblyReference.cache

@@ -1,0 +1,8 @@
+D:\ADSI\C#\cal_sal\LogNegocio\LogNegocio\bin\Debug\netstandard2.0\LogNegocio.deps.json
+D:\ADSI\C#\cal_sal\LogNegocio\LogNegocio\bin\Debug\netstandard2.0\LogNegocio.dll
+D:\ADSI\C#\cal_sal\LogNegocio\LogNegocio\bin\Debug\netstandard2.0\LogNegocio.pdb
+D:\ADSI\C#\cal_sal\LogNegocio\LogNegocio\obj\Debug\netstandard2.0\LogNegocio.csprojAssemblyReference.cache
+D:\ADSI\C#\cal_sal\LogNegocio\LogNegocio\obj\Debug\netstandard2.0\LogNegocio.AssemblyInfoInputs.cache
+D:\ADSI\C#\cal_sal\LogNegocio\LogNegocio\obj\Debug\netstandard2.0\LogNegocio.AssemblyInfo.cs
+D:\ADSI\C#\cal_sal\LogNegocio\LogNegocio\obj\Debug\netstandard2.0\LogNegocio.dll
+D:\ADSI\C#\cal_sal\LogNegocio\LogNegocio\obj\Debug\netstandard2.0\LogNegocio.pdb

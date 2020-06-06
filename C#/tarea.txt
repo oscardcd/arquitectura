@@ -2,3 +2,6 @@ crear una aplicacion, usando dos capas(vista y logica de negocio), que permisa c
 
 
 realiza un sistema de nomina ingresando cedula de empleado, nombre, apellido, valor hora, numero de horas trabajadas, calcular su salario
+
+
+realizar una vista para xml que muestre la cadena de conexion

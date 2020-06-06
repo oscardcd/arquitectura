@@ -1,0 +1,12 @@
+D:\ADSI\C#\cal_sal\Vcalsal\Vcalsal\bin\Debug\Vcalsal.exe.config
+D:\ADSI\C#\cal_sal\Vcalsal\Vcalsal\bin\Debug\Vcalsal.exe
+D:\ADSI\C#\cal_sal\Vcalsal\Vcalsal\bin\Debug\Vcalsal.pdb
+D:\ADSI\C#\cal_sal\Vcalsal\Vcalsal\obj\Debug\Vcalsal.csprojAssemblyReference.cache
+D:\ADSI\C#\cal_sal\Vcalsal\Vcalsal\obj\Debug\Vcalsal.Form1.resources
+D:\ADSI\C#\cal_sal\Vcalsal\Vcalsal\obj\Debug\Vcalsal.Properties.Resources.resources
+D:\ADSI\C#\cal_sal\Vcalsal\Vcalsal\obj\Debug\Vcalsal.csproj.GenerateResource.cache
+D:\ADSI\C#\cal_sal\Vcalsal\Vcalsal\obj\Debug\Vcalsal.exe
+D:\ADSI\C#\cal_sal\Vcalsal\Vcalsal\obj\Debug\Vcalsal.pdb
+D:\ADSI\C#\cal_sal\Vcalsal\Vcalsal\bin\Debug\LogNegocio.dll
+D:\ADSI\C#\cal_sal\Vcalsal\Vcalsal\bin\Debug\LogNegocio.pdb
+D:\ADSI\C#\cal_sal\Vcalsal\Vcalsal\obj\Debug\Vcalsal.csproj.CopyComplete

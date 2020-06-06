@@ -1,0 +1,5 @@
+D:\ADSI\C#\ejercicioxml\libparametrosOdcd\libparametrosOdcd\obj\Debug\libparametrosOdcd.csprojAssemblyReference.cache
+D:\ADSI\C#\ejercicioxml\libparametrosOdcd\libparametrosOdcd\bin\Debug\libparametrosOdcd.dll
+D:\ADSI\C#\ejercicioxml\libparametrosOdcd\libparametrosOdcd\bin\Debug\libparametrosOdcd.pdb
+D:\ADSI\C#\ejercicioxml\libparametrosOdcd\libparametrosOdcd\obj\Debug\libparametrosOdcd.dll
+D:\ADSI\C#\ejercicioxml\libparametrosOdcd\libparametrosOdcd\obj\Debug\libparametrosOdcd.pdb

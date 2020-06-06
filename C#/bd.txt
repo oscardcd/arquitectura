@@ -1,0 +1,52 @@
+USE DB_EMPRESA981
+
+CREATE TABLE empleado
+(
+	idemp varchar(15) primary key,
+	nombre varchar(40),
+	apellido varchar(50),
+	tel varchar(20),
+	salario float
+)
+
+create procedure usp_guardar_emp
+	@idemp varchar(15),
+	@nombre varchar(40),
+	@apellido varchar(50),
+	@tel varchar(20),
+	@salario float
+as
+begin
+	insert into empleado (idemp,nombre,apellido,tel,salario)
+	values(@idemp,@nombre,@apellido,@tel,@salario)
+end
+
+execute usp_guardar_emp '1018346367','pedro','suares','3215654',1800000
+
+select * from empleado
+
+create procedure usp_actualizar_emp
+	@idemp varchar(15),
+	@nombre varchar(40),
+	@apellido varchar(50),
+	@tel varchar(20),
+	@salario float
+as
+begin
+	update empleado set nombre=@nombre,apellido=@apellido,tel=@tel,salario=@salario
+	where idemp=@idemp
+end
+
+
+create procedure usp_eliminar_emp
+	@idemp varchar(15)
+as
+begin
+	delete from empleado where idemp=@idemp
+end
+
+create procedure usp_listar_emp
+as
+begin
+	select * from empleado
+end

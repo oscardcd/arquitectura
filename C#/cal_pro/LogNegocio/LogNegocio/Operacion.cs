@@ -13,6 +13,7 @@ namespace LogNegocio
         public double setnum1
         {
             set { num1 = value; }
+            
         }
         public double setnum2
         {
@@ -44,16 +45,21 @@ namespace LogNegocio
         public bool calcular()
         {
             if (!validar() == true)
-                return false;
-            try
+            { 
+            return false;
+             }
+            else
             {
-                prom = (num1 + num2 + num3)/3;
-                return true;
-            }
-            catch (Exception e)
-            {
-                error = e.Message;
-                return false;
+                try
+                {
+                    prom = (num1 + num2 + num3) / 3;
+                    return true;
+                }
+                catch (Exception e)
+                {
+                    error = e.Message;
+                    return false;
+                }
             }
         }
         #endregion
